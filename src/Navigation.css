@@ -1,0 +1,53 @@
+#nav-bar {
+  color: white;
+  background: rgba(4,193,30,0.6);
+  width: 20vw;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+}
+
+#name {
+  margin-top: 2vh;
+  font-size: 1.5em;
+}
+
+#job-title {
+  font-size: 1em;
+}
+
+#links-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 60%;
+}
+
+.nav-links {
+  text-decoration: none;
+  color: white;
+  font-size: 1.25em;
+}
+
+.nav-links:link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links:visited {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-links:active {
+  text-decoration: none;
+  color: white;
+}

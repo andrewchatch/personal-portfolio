@@ -1,0 +1,53 @@
+#Projects {
+  font-size: 1.75em;
+  margin-bottom: 20px;
+  padding-top: 1em;
+}
+
+#project-section {
+  background: rgba(50,50,50,0.1);
+  width: 80vw;
+}
+
+#calc-link {
+  text-decoration: none;
+}
+
+#drum-link {
+  text-decoration: none;
+}
+
+#markdown-link {
+  text-decoration: none;
+}
+
+#quote-link {
+  text-decoration: none;
+}
+
+#survey-link {
+  text-decoration: none;
+}
+
+.project {
+  margin-bottom: 50px;
+}
+
+.project-img {
+  max-width: 60vw;
+  width: 500px;
+}
+
+.project-img-label {
+  height: 50px;
+  width: 250px;
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-weight: 800;
+  font-size: 1em;
+  border-radius: 20px;
+  line-height: 50px;
+}

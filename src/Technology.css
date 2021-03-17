@@ -1,0 +1,28 @@
+#tech-intro {
+  margin-bottom: 2vh;
+}
+
+#tech-imgs {
+  margin-top: 7vh;
+  margin-left: 15vh;
+}
+
+.img-responsive {
+  max-width: 10vw;
+}
+
+#final-row {
+  margin-left: -7vw;
+}
+
+#c-label {
+  margin-top: 20px;
+}
+
+.img-label {
+  padding-top: 5vh;
+}
+
+#tech-section {
+  margin-bottom: 50px;
+}

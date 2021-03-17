@@ -1,0 +1,21 @@
+.sections {
+  width: 75vw;
+  margin-left: 20vw;
+}
+
+.section-title {
+  font-size: 1.6em;
+}
+
+.row {
+  display: flex;
+  align-items: flex-end;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: justify;
+}
+
+#welcome {
+  margin-top: 2vh;
+}
