@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.38e50daf.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.e7455064.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.e7455064.chunk.js.map",
+    "main.js": "/personal-portfolio/static/js/main.3a29cb41.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.3a29cb41.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.9f40c99b.js",
     "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.9f40c99b.js.map",
     "static/css/2.ef9168ec.chunk.css": "/personal-portfolio/static/css/2.ef9168ec.chunk.css",
@@ -20,6 +20,7 @@
     "static/media/MarkdownPreviewer.6683fe14.png": "/personal-portfolio/static/media/MarkdownPreviewer.6683fe14.png",
     "static/media/Navigation.css": "/personal-portfolio/static/media/Montserrat-Medium.e2d60bc4.ttf",
     "static/media/RandomQuoteGenerator.6ae8c0f9.png": "/personal-portfolio/static/media/RandomQuoteGenerator.6ae8c0f9.png",
+    "static/media/Stats-Calculator.87f75866.png": "/personal-portfolio/static/media/Stats-Calculator.87f75866.png",
     "static/media/SurveyForm.3212cc0b.png": "/personal-portfolio/static/media/SurveyForm.3212cc0b.png",
     "static/media/Technology.css": "/personal-portfolio/static/media/Ubuntu-Light.c2bf1bb6.ttf",
     "static/media/Projects.css": "/personal-portfolio/static/media/Ubuntu-Medium.90c045b7.ttf",
@@ -36,6 +37,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.27358f66.chunk.js",
     "static/css/main.38e50daf.chunk.css",
-    "static/js/main.e7455064.chunk.js"
+    "static/js/main.3a29cb41.chunk.js"
   ]
 }
