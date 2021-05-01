@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.a6a5b795.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.f69274ab.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.f69274ab.chunk.js.map",
+    "main.js": "/personal-portfolio/static/js/main.124b097e.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.124b097e.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.35c8f43e.js",
     "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.35c8f43e.js.map",
     "static/css/2.ef9168ec.chunk.css": "/personal-portfolio/static/css/2.ef9168ec.chunk.css",
@@ -21,7 +21,6 @@
     "static/media/Navigation.css": "/personal-portfolio/static/media/Montserrat-Medium.e2d60bc4.ttf",
     "static/media/RandomQuoteGenerator.6ae8c0f9.png": "/personal-portfolio/static/media/RandomQuoteGenerator.6ae8c0f9.png",
     "static/media/Stats-Calculator.783ed1ed.png": "/personal-portfolio/static/media/Stats-Calculator.783ed1ed.png",
-    "static/media/SurveyForm.3212cc0b.png": "/personal-portfolio/static/media/SurveyForm.3212cc0b.png",
     "static/media/Technology.css": "/personal-portfolio/static/media/Ubuntu-Light.c2bf1bb6.ttf",
     "static/media/Projects.css": "/personal-portfolio/static/media/Ubuntu-Medium.90c045b7.ttf",
     "static/media/bootstrap-logo.7f279912.png": "/personal-portfolio/static/media/bootstrap-logo.7f279912.png",
@@ -38,6 +37,6 @@
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.206f9f09.chunk.js",
     "static/css/main.a6a5b795.chunk.css",
-    "static/js/main.f69274ab.chunk.js"
+    "static/js/main.124b097e.chunk.js"
   ]
 }
