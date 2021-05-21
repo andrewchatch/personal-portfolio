@@ -1,4 +1,4 @@
-# personal-portfolio
+# My Personal Portfolio
 
 ## Overview
 This is my personal portfolio website. The site is divided into three section, the Homepage, the 'Projects' section, and the 'About Me' section. The main page contains a short introduction and a link to the 'Projects' section. The 'Projects' section contains links to the recent projects that I have completed, which I update regularly so that my most recent work is always at the forefront. At the top of the 'About Me' section, you will find a personal summary, detailing my background and my goals as a developer. In this section, you will also read about my education, the technologies that I have experience using, and my contact information. I have also included a link to a web-hosted version of my resume, which can also be found  <a href="https://andrewchatch.github.io/interactive-resume" target="_blank">here</a>.
