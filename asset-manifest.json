@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.27b44b8c.chunk.css",
+    "main.css": "/personal-portfolio/static/css/main.6fa48b37.chunk.css",
     "main.js": "/personal-portfolio/static/js/main.1c355604.chunk.js",
     "main.js.map": "/personal-portfolio/static/js/main.1c355604.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.664e4d60.js",
@@ -12,7 +12,7 @@
     "static/js/3.1933758c.chunk.js.map": "/personal-portfolio/static/js/3.1933758c.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
     "static/css/2.ef9168ec.chunk.css.map": "/personal-portfolio/static/css/2.ef9168ec.chunk.css.map",
-    "static/css/main.27b44b8c.chunk.css.map": "/personal-portfolio/static/css/main.27b44b8c.chunk.css.map",
+    "static/css/main.6fa48b37.chunk.css.map": "/personal-portfolio/static/css/main.6fa48b37.chunk.css.map",
     "static/js/2.54c2d9df.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.54c2d9df.chunk.js.LICENSE.txt",
     "static/media/Welcome.css": "/personal-portfolio/static/media/Boogaloo-Regular.c9cf5bab.ttf",
     "static/media/Calculator.05a97a79.png": "/personal-portfolio/static/media/Calculator.05a97a79.png",
@@ -36,7 +36,7 @@
     "static/js/runtime-main.664e4d60.js",
     "static/css/2.ef9168ec.chunk.css",
     "static/js/2.54c2d9df.chunk.js",
-    "static/css/main.27b44b8c.chunk.css",
+    "static/css/main.6fa48b37.chunk.css",
     "static/js/main.1c355604.chunk.js"
   ]
 }
